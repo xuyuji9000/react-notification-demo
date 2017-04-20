@@ -1,3 +1,3 @@
-# react 15.5 demo
+# react notification demo
 
-this is react 15.5.* demo.
+This is react notification demo.
